@@ -1,4 +1,4 @@
-# midsquareMethod
+# Mid-square Method
 An implemention of mid-square method in python for visual purposes.
 This python file contains the class midsquare_method. 
 You use the method getTable to visualize a table of Z, U, Z**2 values.
