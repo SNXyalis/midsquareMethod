@@ -43,5 +43,5 @@ class midsquare_method():
         return 
 
 
-x = midsquare_method()
-x.getTable(7182, 16)
+#x = midsquare_method()
+#x.getTable(7182, 16)
